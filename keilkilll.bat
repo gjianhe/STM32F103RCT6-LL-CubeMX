@@ -1,0 +1,9 @@
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.axf
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.htm
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.crf
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.d
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.iex
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.lnp
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.map
+del /S /Q .\MDK-ARM\STM32F103RCT6\*.o
+exit
